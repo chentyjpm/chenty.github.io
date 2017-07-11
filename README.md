@@ -7,4 +7,4 @@ Live is short, learn more
 这里是我的心路历程，不善写作 但求log人生
 This is my road， no story only log
 
-<--点击这里看log Click Here For log
+我的仓库[Myrepository](https://github.com/chentyjpm).
